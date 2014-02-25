@@ -1,0 +1,791 @@
+Aachener Str./Gürtel
+Aeltgen-Dünwald-Str.
+Akazienweg
+Alter Flughafen Butzweilerhof
+Alter Militäring
+Alter Militärring
+Altonaer Platz
+Am Bilderstöckchen
+Am Emberg
+Am Faulbach
+Am Feldrain
+Am Kölnberg
+Amsterdamer Str./Gürtel
+Appellhofplatz
+Arnoldshöhe
+Arnulfstraße
+Arthur-Hantzsch-Str.
+Auguste-Kowalski-Str.
+Autobahn
+Bahnhof Rodenkirchen
+Bahnstraße
+Barbarossaplatz
+Baumschulenweg
+Bayenthalgürtel
+Bayerwerk S-Bahn
+Bensberg
+Bensberg Busbahhof
+Benzelrath
+Berliner Straße
+Berrenrather Str./Gürtel
+Beuthener Str.
+Bf Deutz/Lanxess arena
+Bf Deutz/Messe
+Bf Ehrenfeld
+Bf Lövenich
+Bf Mülheim
+Bf Porz
+Bf. Deutz/LANXESS arena
+Bf. Mülheim
+Bocklemünd
+Boltensternstraße
+Bonhoefferstr.
+Bonner Str./Gürtel
+Borsigstr.
+Brahmsstr.
+Breslauer Platz/Hbf
+Bruder-Klaus-Siedlung
+Brück Mauspfad
+Brück-Mauspfad Bus
+Brück-Mauspfad Gleis 3
+Brühler Straße
+Buchheim Frankfurter Str.
+Buchheim Herler Str.
+Buchheimer Weg
+Bödinger Str.
+Chlodwigplatz
+Chorbuschstr.
+Chorweiler
+Christophstraße
+Clarenbachstift
+Cäsarstr.
+Dasselstraße/Bf. Süd
+Dellbrück S-Bahn
+Dellbrück, Hauptstraße
+Dellbrück, Mauspfad
+Deutz Messe/Osthalle
+Deutz-Kalker Bad
+Deutzer Freiheit
+Deutzer Ring
+Dom/Hbf.
+Drehbrücke
+Dünnwalder Str.
+Dürener Straße
+Ebernburgweg
+Ebertplatz Gleis 1
+Ebertplatz Gleis 2
+Ebertplatz Gleis 3
+Ebertplatz Gleis 4
+Ebertplatz/Riehler Str.
+Edelhofstr.
+Egonstr.
+Eifelplatz
+Eifelstraße
+Eifelwall
+Eil Kirche
+Einkaufzentrum Weiden
+Endhaltestelle Thielenbruch
+Ensen Gilgaustraße
+Ensen Kloster
+Ensen, Kloster
+Escher Straße 
+Esserstr.
+Eupener Straße
+Euskirchener Straße
+Eythstr.
+Feuerwache
+Flehbachstraße
+Flittard Süd
+Florastraße
+Ford Werke Mitte
+Ford Werke Nord
+Ford Werke Süd
+Frankenforst
+Frankenthaler Str.
+Frankstr.
+Frechen Bf.
+Frechen, Kirche
+Frechen, Rathaus
+Friedhof Stammheim
+Friesenplatz
+Fuldaer Str.
+Fuldaer Straße
+Geestemünder Str.
+Geldernstr./Parkgürtel
+Geldernstraße
+Gewerbegebiet Pesch-Nord
+Gleueler Str./Gürtel
+Goltsteinstr./Gürtel
+Gottesweg
+Gremberg
+Grünstraße
+Görlinger Zentrum
+Hammerschmidtstr.
+Hans- Böckler- Platz
+Hans-Böckler-Platz
+Hansaring
+Haus Vorst
+Heimersdorf
+Heinering
+Heinrich-Lübcke-Ufer
+Heinrich-Lübke-Ufer
+Heinrich-Mann-Str.
+Herforder Straße
+Herthastr.
+Heumarkt
+Höhenberg Frankfurter Str.
+Höhenberg, Frankfurter Str.
+IKEA Am Butzweilerhof
+Iltisstraße
+Im Falkenhorst
+Im Hoppekamp
+Im Weidenbruch
+Immendorf Siedlung
+Junkersdorf
+Kalk Kapelle
+Kalk Post
+Kalker Friedhof
+Karl-Marx-Allee
+Keupstr.
+Kinderkrankenhaus
+Kippekausen
+Klettenbergpark
+Kölner Straße
+Königsforst
+Körnerstraße
+Kürtenstr.
+Leimbachweg
+Lenauplatz
+Lerchenweg
+Leuchterstr.
+Leuchterstraße
+Leyboldstr.
+Leyendeckerstr.
+Liblarer Str.
+Lindenburg
+Lohsestraße
+Longericher Str.
+Longericher Str./Etzelstr.
+Lustheide
+Maarweg
+Mannsfeld
+Margaretastr.
+Maria-Himmelfahrt-Str.
+Marienberger Weg
+Marienburger Str.
+Marsdorf
+Mauritiuskirche
+Meerfeldstraße
+Melaten
+Merheim
+Merkenich Mitte
+Mohnweg
+Mollwitzstraße
+Moltkestraße
+Montanusstr.
+Moses-Hess-Str.
+Mühlengasse
+Mülheim Berliner Str.
+Mülheim Wiener Platz
+Mülheimer Friedhof
+Nesselrodestr.
+Neuenweg
+Neuer Mülheimer Friedhof
+Neufelder Straße
+Neumarkt
+Neumarkt/U-Bahn
+Neusser Straße/Gürtel
+Niehl
+Nippes S-Bahn
+Nußbaumerstr.
+Odenthaler Straße
+Ollenhauerring
+Oranienstr.
+Oskar-Jäger-Str./Gürtel
+Ostheim
+Pesch Schulstr.
+Piusstraße
+Pohligstr.
+Poll Hauptstr.
+Poll Salmstr.
+Poll Wendeanlage
+Poller Kirchweg
+Porz Markt
+Porzer Straße
+Poststraße
+Raiffeisenstraße
+Rath-Heumar
+Refrath
+Reichenspergerplatz
+Rektor-Klein-Str.
+Remscheider Str.
+Rheinenergie-Stadion
+Rheinsteinstr.
+Rodenkirchen Bahnhof
+Rodenkirchen Bf
+Rodenkirchen Rathaus
+Rolshover Str.
+Rondorf
+Rosenhügel
+Rudolf-Diesel-Str.
+Rudolfplatz
+Röttgensweg
+Salmstrasse
+Schaffrathsgasse
+Scheibenstraße
+Schirmerstr.
+Schlebusch
+Schulstraße
+Schönhauser Straße
+Sebastianstr.
+Sebastianstraße Gl.2
+Sechzigstr.
+Severinsbrücke
+Severinstr.
+Siegfriedstr.
+Sigwinstr.
+Slabystraße
+Sparkasse Am Butzweilerhof
+Stammheimer Ring
+Stegerwaldsiedlung
+Steinmetzstr.
+Steinstraße
+Steinweg
+Stresemannstr.
+Stüttgenhof
+Subbelrather Str./Gürtel
+Subbelrather Straße
+Suevenstraße 
+Sülzburgstr./Berrenrather Str.
+Sülzburgstraße
+Sülzgürtel
+Sürth Bf
+Taubenholzweg
+TechnologiePark Köln
+Theodor-Heuss-Str.
+Thielenbruch
+Trimbornstr.
+Ubierring
+Ulrepforte
+Universität Bstg. Gl.
+Universitätsstr.
+Universitätsstraße
+Urbach Kaiserstr.
+Venloer Str./Gürtel
+Venloer Straße/Gürtel
+Vingst
+Vischeringstraße
+Vitalisstr. Süd
+Vogelsanger Str./Maarweg
+Von-Lohe-Str.
+Von-Sparr-Straße
+Waldecker Str.
+Waldecker Straße
+Wattstr.
+Weichselring
+Weiden West
+Weiden Zentrum
+Weiden/Zentrum
+Weilburger Str.
+Weilerweg
+Weinsbergstr./Gürtel
+Weinsbergstraße
+Weißhausstraße
+Westfriedhof
+Weyertal
+Wichheimer Strasse
+Wichheimer Straße
+Wiedstr.
+Wiener Platz
+Wiener Platz/U-Bahn
+Wilhelm-Sollmann-Str.
+Wolffsohnstr.
+Wüllnerstraße
+Würzburger Str.
+Zollstock Südfriedhof
+Zollstockgürtel
+Zoo
+Zülpicher Platz
+Zülpicher Str./Gürtel
+Zülpicher Straße
+Zündorf Gl. 1
+Zündorf Gl. 2
+Äußere Kanalstr.
+Adrian-Meller-Str.
+Albin-Köbis-Straße
+Alfred-Schütte-Allee
+Alte Forststr.
+Alteburger Wall
+Alter Deutzer Postweg
+Alzeyer Str.
+Am Coloneum
+Am Grauen Stein
+Am Hochkreuz
+Am Kreuzweg
+Am Leinacker
+Am Lindenweg
+Am Neuen Forst
+Am Portzenacker
+Am Schildchen
+Am Springborn
+Am Vorgebirgstor
+Am Weißen Mönch
+Am Zehnthof 1
+Amselstr.
+An der Ronne
+An der Walkmühle
+An St.Marien 1
+Andreaskloster
+Anemonenweg
+Antoniusstr.
+Auf dem Streitacker
+Auf der Freiheit
+August-Horch-Str.
+Autobahn (Bus)
+Autobahn (Stadtbahn)
+Auweilerweg
+Bachemer Str.
+Bad Godesberg Bf
+Bad Godesberg Stadthalle
+Bahnstr.
+Baldurstr.
+Baptiststr.
+Barbarastr.
+Belvederestr.
+Bergstr.
+Betzdorfer Str.
+Beuelsweg Nord
+Bevingsweg
+Bf Deutz / Messe LANXESS arena
+Bf Deutz/Messeplatz
+Bieselweg
+Birkenweg
+Blaugasse
+Bleriotstr.
+Blockstr.
+Blumenberg (S)
+Bodinusstr.
+Bonner Landstr.
+Bonner Str.
+Bonntor
+Braugasse
+Bremerhavener Str.
+Broichstr.
+Brühler Str./Gürtel
+Buchforst S-Bahn
+Buchforst Waldecker Str.
+Bundesrechnungshof/Auswärtiges Amt
+Bunsenstr.
+Burgplatz
+Burgwiesenstr.
+Buschdorf
+Buschfeldstr.
+Buschweg
+Butzweilerstr.
+Bückebergstr.
+Celsiusstr.
+Cheruskerstr.
+Chorweiler Nord (S)
+Christophstr./Mediapark
+Colonia-Allee
+CöllnParc
+Dasselstr./Bf Süd
+Deckstein
+Dellbrück Hauptstr.
+Dellbrück Mauspfad
+Deutzer Friedhof
+Diepeschrather Str.
+Dieselstr.
+Dionysstr.
+DLR
+Dohmengasse
+Dom / Hbf
+Dorotheenstr.
+Dt. Telekom/Ollenhauerstr.
+Dt. Telekom/Olof-Palme-Allee
+Dädalusring
+Dürener Str./Gürtel
+Ebertplatz
+Ebertplatz 1
+Ebertplatz 2
+Ebertplatz 3
+Ebertplatz 4
+Eddaweg
+Edsel-Ford-Str.
+Eggerbachstr.
+Eifelstr.
+Eil Heumarer Str.
+Eiler Str.
+Einkaufszentrum
+Elsdorf
+Emilstr.
+Engeldorfer Hof
+Engeldorfer Str.
+Ensen Gilgaustr.
+Erlenweg
+Esch Friedhof
+Escher Str.
+Ettore-Bugatti-Str.
+Etzelstr.
+Eupener Str.
+Europaring
+Euskirchener Str.
+Feldbergstr.
+Feldkasseler Weg
+Feltenstr.
+Flachsweg
+Flehbachstr.
+Flittarder Feld
+Florastr.
+Florenzer Str.
+Fordwerke Mitte
+Fordwerke Nord
+Fordwerke Süd
+Frankenstr.
+Frankfurter Str.
+Franziska-Anneke-Str.
+Frechen Kirche
+Frechen Rathaus
+Frechen-Benzelrath
+Freiligrathstr.
+Friedensstr.
+Friedhof Chorweiler
+Friedhof Godorf
+Friedhof Lehmbacher Weg
+Friedr.-Karl-Str./Neusser Str.
+Friedrich-Hirsch-Str.
+Further Str.
+Fühlinger Weg
+Gaedestr.
+Gauweg
+Gebrüder-Coblenz-Str.
+Geibelstr.
+Geisselstr.
+Gerhart-Hauptmann-Str.
+Gewerbegebiet Broichstr.
+Gewerbegebiet Pesch
+Gießener Str.
+Gisbertstr.
+Glashüttenstr.
+Godorf Bf
+Goldregenweg
+Graf-Adolf-Str.
+Grengel Mauspfad
+Grevenbroicher Str.
+Grimmelshausenstr.
+Gronauer Str.
+Gunther-Plüschow-Str.
+Guntherstr.
+Gutenbergstr.
+Gürzenichstr.
+Güterverkehrszentrum
+Güterverkehrszentrum Süd
+Habichtstr.
+Halfengasse
+Hans-Böckler-Platz/Bf West
+Hansestr. Ost
+Hansestr. Süd
+Hansestr. West
+Havelstr.
+Heinz-Kühn-Str.
+Herforder Str.
+Hermann-Löns-Str.
+Herrigergasse
+Hersel
+Heussallee/Museumsmeile
+Hildegardis-Krankenhaus
+Hildegundweg
+Hochkreuz/Deutsches Museum Bonn
+Hohenlind
+Holweide S-Bahn
+Holweide Vischeringstr.
+Honschaftsstr.
+Hopfenstr.
+Hugo-Eckener-Str.
+Hugo-Junkers-Str.
+Humboldtstr.
+Häuschensweg
+Höhscheider Weg
+IKEA Godorf
+Iltisstr.
+Im Buschfelde
+Im Hoppenkamp
+Im Langen Bruch
+Im Rheinpark
+Im Rheintal
+Im Wasserfeld
+Im Wichemshof
+Im Wirtskamp
+Imbacher Weg
+Immendorf Schule
+Indianapolis-Straße
+Innere Kanalstr.
+Jasminweg
+Johann-Bensberg-Str. 1
+Johannes-Prassel-Str.
+Josef-Lammerting-Allee
+Juridicum
+Justizzentrum
+Kalkweg
+Kalscheuren Bf
+Karl-Schwering-Platz
+Kaserne Haupttor
+Kaserne Nordtor
+Kasselberg
+Kendenicher Str.
+Kesselsgasse
+Kettelerstr.
+Kieler Str.
+Kirschbaumweg
+Kitschburger Str.
+Kleinfeldchensweg
+Kleingartenanlage
+Klingerstr.
+Klinikum Merheim
+Klosterhof
+Koblenzer Str.
+Kochwiesenstr.
+Koelnmesse
+Kolkrabenweg
+Konrad-Adenauer-Str.
+Kopernikusschule
+Koppensteinstr.
+Kornblumenweg
+Krefelder Wall
+Kretzerstr.
+Krieler Str.
+Kuenstr.
+Kämpchensweg
+Köln/Bonn Flughafen Bf
+Köln/Bonn Flughafen Verwaltung
+Kölner Str.
+Kölnstraße 1
+Königsdorf Bf
+Körnerstr.
+Kühzällerweg
+Lacher Broch
+Lahnstr. 1
+Langel Fähre
+Langel Kuhlenweg
+Langel Mohlenweg
+Langel Nord
+Leiblplatz
+Leinsamenweg
+Leipziger Platz
+Leopold-Gmelin-Str.
+Libur Kirche
+Libur Margaretenstr.
+Liebigstr.
+Lindenburg (Universitätskliniken)
+Lindenweg
+Linder Kreuz
+Linder Mauspfad
+Linder Weg
+Lindweilerfeld
+Lindweilerweg
+Lippeweg
+Lohsestr.
+Longerich Friedhof
+Longerich S-Bahn
+Longericher Str. Nord
+Lucasstr.
+Ludwigsburger Str.
+Luftfracht Köln/Bonn
+LVR Kliniken
+Lüderichstr.
+Maarhäuser Weg
+Mannesmannstr.
+Marconistr.
+Marconistr. Ost
+Marienburg Südpark
+Marienplatz
+Marktplatz Sürth
+Marktstraße
+Maternusplatz
+Mathias-Brüggen-Str.
+Max-Löbner-Str./Friesdorf
+Mechternstr.
+Meerfeldstr.
+Merheimer Platz
+Merianstr.
+Meschenich Kirche
+Methweg
+Michaelshoven
+Mollwitzstr.
+Moltkestr.
+Mommsenstr.
+Morsestr.
+Museum Koenig
+Mutzbach
+Mühlengasse 1
+Mühlenweg
+Mülhauser Str.
+Mülheimer Ring
+Müngersdorf S-Bahn Technologiepark
+Nachtigallenstr.
+Nattermannallee
+Neißestr.
+Neufelder Str. (Krankenhaus Holweide)
+Neurather Weg
+Neusser Str./Gürtel
+Neven DuMont Haus
+Nibelungenplatz
+Nibelungenstr.
+Niehl Sebastianstr.
+Niehler Str.
+Nievenheimer Str.
+Nordfriedhof
+Nordstr.
+Nüssenberger Str.
+Oberer Komarweg
+Odenthaler Str.
+Olpener Str.
+Oranjehofstr.
+Osterather Str.
+Ostfriedhof
+Ostmerheimer Str.
+Otto-Hahn-Str.
+Otto-Müller-Str.
+P&R Köln-Schlebusch (Stadtbahn)
+Parkhaus Hauptbahnhof
+Pasteurstr.
+Pescher Weg
+Pettenkoferstr.
+Pierstr.
+Piusstr.
+Plittersdorfer Str.
+Poller Holzweg
+Porz Steinstr.
+Porz-Langel Süd
+Porzer Str.
+Poststr.
+Propsthof Nord
+Prälat-van-Acken-Str.
+Raiffeisenstr.
+Rathaus
+Reischplatz
+Rheinauhafen
+Rheinkassel
+Rheinlandstr.
+Riehl Betriebshof Nord
+Riehler Gürtel
+Robert-Bosch-Str.
+Robert-Perthel-Str.
+Rodenkirchen Bismarckstr.
+Rodenkirchener Str.
+Roggenweg
+Roisdorf Bf
+Roonstr.
+Rosenstr.
+Roteichenweg
+Rösrather Str.
+Saarbrücker Str.
+Saarstr.
+Sauerlandstr.
+Schadowstr.
+Scheibenstr.
+Scheuermühlenstr.
+Schillingsrotter Str.
+Schlagbaumsweg
+Schlettstadter Str.
+Schloß Röttgen
+Schmiedegasse
+Schmiedegasse 1
+Schokoladenmuseum
+Schulzentrum Wahn
+Schumacherring
+Schwabenstr.
+Schönhauser Str.
+Schüttewerk
+Sechtem Bf
+Seithümerstr.
+Seniorenzentrum Riehl
+Servatiusstr.
+Severinskirche
+Severinusstr.
+Siedlung Mielenforst
+Siegburger Str.
+Siegstr. (Stadtbahn)
+Siemensstr.
+Silbermöwenweg
+Sinnersdorf Kirche
+Sinnersdorfer Mühle
+Slabystr.
+Spich Bf
+Spitzangerweg
+Sprengelstr.
+Stammheim S-Bahn
+Steinkauzweg
+Steinstr. S-Bahn
+Stolberger Str./Eupener Str.
+Stolberger Str./Maarweg
+Stommeler Str.
+Straßburger Platz
+Suevenstr.
+Südbahnhof
+Sülz Hermeskeiler Platz
+Tacitusstr.
+Talweg
+Tannenbusch Mitte
+Tannenbusch Süd
+Theresienstr.
+Thermalbad
+Thurner Kamp
+Trifelsstr.
+Troisdorfer Str.
+TÜV-Akademie
+Uedorf
+Uferstr.
+Universität
+Universität/Markt
+Unnauer Weg
+Urbach Friedhof
+Urbach Waldstr.
+Vitalisstr. Nord
+Volkhovener Weg
+Volksgarten
+Voltastr.
+Von-Galen-Str.
+Von-Hünefeld-Str.
+Von-Quadt-Str.
+Von-Sparr-Str.
+Wahn Friedhof
+Wahn Kirche
+Wahn S-Bahn
+Waidmarkt
+Waldbad
+Waldstr./Akazienweg
+Walter-Dodde-Weg
+Walter-Pauli-Ring
+Wasserwerk
+WDR
+Weiden Schulstr.
+Weißhausstr.
+Welserstr.
+Wendelinstr.
+Weserpromenade
+Wesseling Nord
+Wesseling Süd
+Wesselinger Str.
+Westerwaldstr.
+Westhoven Berliner Str.
+Westhoven Kölner Str.
+Wezelostr.
+Wichheimer Str.
+Widdig
+Wiehler Str.
+Wiesenweg
+Wildpark
+Wilhelm-Klein-Straße 1
+Wiso-Fakultät
+Worringen S-Bahn
+Worringer Str.
+Wurzerstr.
+Wüllnerstr.
+Xantener Str.
+Zaunhof
+Zaunstr.
+Zonser Str.
+Zoo/Flora
+Zugweg
+Zündorfer Weg
