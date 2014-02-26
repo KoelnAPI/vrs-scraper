@@ -162,21 +162,23 @@ def get_strassen_koeln():
             yield row[1]
 
 
-def get_stationen_osm():
-    f = open("stationen-osm.json")
-    data = json.loads(f.read())
-    f.close()
-    for el in data["elements"]:
-        yield el
-
-
-def get_stationen_kvb():
+def get_stationen_textfile():
     f = open("stationsnamen.txt")
     lines = f.read().split("\n")
     for line in lines:
         line = line.strip()
         if line != "":
             yield line
+
+
+def get_stationen_qrcodes():
+    f = open("kvb-qr-codes.csv")
+    lines = f.read().split("\n")
+    for line in lines:
+        line = line.strip()
+        if line != "":
+            sid, name = line.split(",", 1)
+            yield (sid, name)
 
 
 def export(path):
@@ -213,28 +215,27 @@ if __name__ == '__main__':
     ### Suchbegriffe für die Suche nach Stationen
     ### zusammen getragen
 
-    # Stationsnamen aus Textdatei:
-    for station in get_stationen_kvb():
-        searchterm = station + ", köln"
+    ## Stationsnamen aus Textdatei:
+    #for station in get_stationen_textfile():
+    #    searchterm = station + ", köln"
+    #    searchterms.add(searchterm)
+
+    # Stationsnamen aus QR-Codes-Stationsliste:
+    for (sid, name) in get_stationen_qrcodes():
+        searchterm = name + ", köln"
         searchterms.add(searchterm)
 
-    # Stationsnamen von OSM
-    for station in get_stationen_osm():
-        if "name" in station:
-            searchterm = station["name"].encode("utf8") + ", köln"
-            searchterms.add(searchterm)
+    ## Straßennamen
+    #for street in get_strassen_koeln():
+    #    searchterm = street.encode("utf8") + ", köln"
+    #    searchterms.add(searchterm)
 
-    # Straßennamen
-    for street in get_strassen_koeln():
-        searchterm = street.encode("utf8") + ", köln"
-        searchterms.add(searchterm)
-
-    # Buchstabenkombinationen
-    letters = string.lowercase[0:26]
-    for l1 in letters:
-        for l2 in letters:
-            searchterm = l1 + l2 + ", köln"
-            searchterms.add(searchterm)
+    ## Buchstabenkombinationen
+    #letters = string.lowercase[0:26]
+    #for l1 in letters:
+    #    for l2 in letters:
+    #        searchterm = l1 + l2 + ", köln"
+    #        searchterms.add(searchterm)
 
     num = len(searchterms)
     count = 0
