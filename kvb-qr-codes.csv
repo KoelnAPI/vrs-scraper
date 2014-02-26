@@ -1,0 +1,973 @@
+id,name
+1,Heumarkt
+101,Am Steinneuerhof
+1010,Bergheim Grundschule
+1011,Bergheim Industriegebiet
+102,Friedhof Steinneuerhof
+103,Kirschbaumweg
+104,Mannesmannstr.
+105,Hahnwald
+106,Rodenkirchen Bf
+1069,Bergheim Fährhaus
+107,Siegstr.
+1071,Mondorf Ahrstr.
+1072,Mondorf Beckergasse
+1073,Mondorf Sportplatz
+1074,Rheidt Süd
+1076,Rheidt Markt
+1077,Rheidt Unterführung
+1078,Rheidt Nord
+1079,Rheidt Bahnhofstr.
+108,Michaelshoven
+1080,Niederkassel Spicher Str.
+1081,Niederkassel Nord
+1082,Ranzel Sonnenbergerweg
+109,Maternusplatz
+11,Severinstr.
+110,Frankstr.
+111,Rodenkirchen Rathaus
+1115,Bonn Bertha-von-Suttnerplatz
+112,Grimmelshausenstr.
+113,Lülsdorf Hallenbad
+114,Uferstr.
+116,Siegfriedstr.
+117,Grüngürtelstr.
+118,Richard-Wagner-Str.
+119,Adolf-Menzel-Str.
+12,Waidmarkt
+120,Konrad-Adenauer-Str.
+121,Schwabenstr.
+122,Schillingsrotter Str.
+123,Am Neuen Forst
+124,Sürth Bf
+125,Wesselinger Str.
+126,Marktplatz Sürth
+127,Kölnstr.
+128,Ernst-Volland-Str.
+129,Hammerschmidtstr.
+13,Rosenstr.
+130,Ritterstr.
+131,Weißer Hauptstr.
+132,Weiß Friedhof
+133,Zum Hedelsberg
+134,Godorf Bf
+135,Pierstr.
+136,Otto-Hahn-Str.
+137,Bunsenstr.
+138,Friedhof Godorf
+139,Immendorf Siedlung
+14,Silbermöwenweg
+140,Immendorf
+141,Zaunhof
+142,Mohnweg
+143,Universitätsstr.
+144,Melaten
+145,Hildegardis-Krankenhaus
+146,Geibelstr.
+147,Leiblplatz
+148,Karl-Schwering-Platz
+149,Theresienstr.
+15,Severinskirche
+150,Weißhausstr.
+151,Arnulfstr.
+1510,Schwarzrheindorf Kirche
+1514,Schwarzrheindorf Schule
+1515,Schwarzrheindorf Siegaue
+152,Sülzburgstr.
+153,Universität
+154,Weyertal
+155,Lindenburg
+156,Konradstr.
+157,Sülzburgstr./Berrenrather Str.
+158,Lülsdorf Kirche
+1584,Ramersdorf
+159,Rhöndorfer Str.
+16,Rolandstr.
+160,Sülzgürtel
+161,Bad Godesb. Bf/Löbestr.
+162,Berrenrather Str./Gürtel
+163,Euskirchener Str.
+164,Zülpicher Str./Gürtel
+165,Mommsenstr.
+1655,Robert-Schuman-Platz
+166,Sülz Hermeskeiler Platz
+167,Klettenbergpark
+168,Siebengebirgsallee
+169,Wüllnerstr.
+17,Ubierring
+170,Dürener Str./Gürtel
+171,Kitschburger Str.
+172,Brahmsstr.
+173,Gleueler Str./Gürtel
+174,Hohenlind
+175,Krieler Str.
+176,Koppensteinstr.
+177,Deckstein
+178,Aachener Str./Gürtel
+179,Maarweg
+18,Chlodwigplatz
+180,Clarenbachstift
+181,Eupener Str.
+1811,Siegburg Bf
+182,Oskar-Jäger-Str./Gürtel
+183,Stolberger Str./Eupener Str.
+184,Stolberger Str./Maarweg
+185,Müngersdorf S-Bahn/Technologiepark
+186,Alter Militärring
+187,Rheinenergie-Stadion
+188,Wendelinstr.
+189,Herrigergasse
+19,Ulrepforte
+190,Kämpchensweg
+191,Am Lindenweg
+192,Flachsweg
+193,Leinsamenweg
+194,Roggenweg
+195,Vitalisstr. Süd
+196,Widdersdorfer Str.
+197,Technologiepark Köln
+198,Schwindstr.
+199,Böcklinstr.
+2,Neumarkt
+20,Alteburger Wall
+200,Junkersdorf
+2012,Niederkassel Evgl. Kirche
+2018,Bergheim Kirche
+2019,Bergheim Friedhof
+202,Vogelsanger Weg
+2020,Müllekoven
+2021,Eschmar Bergheimer Str.
+2022,Eschmar Kirche
+2023,Sieglar Im Kirschtal
+2024,Sieglar Flachtenstr./Krankenhaus
+2025,Sieglar Rathausstr.
+2026,Sieglar RSVG
+203,Birkenallee
+204,Kölner Weg
+2041,Troisdorf Rathaus
+2043,Oberlar Lindlaustr.
+2044,Oberlar Landgrafenstr
+2045,Sieglar Feuerwache
+2046,Sieglar Leostr.
+205,Sterrenhofweg
+2057,Sieglar Schulzentrum
+206,Beethovenstr.
+2069,Troisdorf Bergeracker
+207,Südallee
+2071,Troisdorf BF
+2073,Troisdorf Wilhelmstr.
+2076,Troisdorf Ursulaplatz
+2078,Troisdorf Elsenplatz
+208,Waldstr.
+2083,Troisdorf Altenforst
+209,Wiener Weg
+2098,Troisdorf Aggerbrücke
+2099,Siegburg Brückberg
+21,Eifelplatz
+210,Stüttgerhofweg
+2100,Siegburg Ernststr.
+2101,Siegburg Waldstr.
+2102,Siegburg Kaiserstr.
+2103,Siegburg Stadthalle
+2105,Siegburg Markt
+211,Egelspfad
+212,Bf Lövenich
+213,Seithümerstr.
+214,Dieselstr.
+215,Zaunstr.
+216,An der Ronne
+217,Spitzangerweg
+218,Saarstr.
+219,Severinusstr.
+22,Eifelstr.
+220,Braugasse
+221,Selma-Lagerlöf-Str.
+222,Frechener Weg
+223,Üsdorf
+223,Üsdorf
+224,Weiden Sportplatz
+225,Stormstr.
+226,Weiden Goethestr.
+227,Ostlandstr.
+228,Rosenhügel
+229,Diepenbeekallee
+23,Barbarossaplatz
+230,Im Buschfelde
+231,Widdersdorf
+232,Adrian-Meller-Str.
+233,Blaugasse
+234,Stüttgenhof
+235,Marsdorf
+236,Piusstr.
+237,Körnerstr.
+238,Gutenbergstr.
+239,Liebigstr.
+24,Zülpicher Platz
+240,Lülsdorf Uhlandstr.
+241,Weiden Schulstr.
+242,Schaffrathsgasse
+243,Walter-Pauli-Ring
+244,Willi-Lauf-Allee
+245,Subbelrather Str./Gürtel
+246,Nußbaumerstr.
+247,Lenauplatz
+249,Iltisstr.
+25,Dasselstr./Bf Süd
+250,Butzweilerstr.
+251,Venloer Str./Gürtel
+252,Eichenstr.
+253,Geisselstr.
+254,Weinsbergstr./Gürtel
+2548,Windmühlenstr.
+255,Leyendeckerstr.
+256,Borsigstr.
+257,Bf Deutz/Messeplatz
+258,Oskar-Jäger-Str.
+259,Karnevalsmuseum
+26,Eifelwall
+260,Vogelsanger Str./Maarweg
+261,Weiden Zentrum
+262,Äußere Kanalstr.
+263,Alter Deutzer Postweg
+264,Akazienweg
+265,Vogelsanger Str.
+2650,Siegburg Kaserne
+266,Häuschensweg
+2664,Troisdorf Kuttgasse
+267,Feltenstr.
+268,Emilstr.
+269,Erlenweg
+27,Rudolfplatz
+270,Mühlenweg
+271,Ossendorf
+272,Rektor-Klein-Str.
+273,Margaretastr.
+2736,Niederkassel Rathausplatz
+274,Alter Flughafen Butzweilerhof
+275,Hugo-Eckener-Str.
+276,Blériotstr.
+277,Von-Hünefeld-Str.
+278,Mathias-Brüggen-Str.
+279,Militärringstr.
+28,Moltkestr.
+280,Lülsdorf Nord
+281,Lülsdorf Schulzentrum
+2812,Sieglar Rathausstr./Kreisel
+282,Wolffsohnstr.
+283,Westfriedhof
+284,Lacher Broch
+285,Kolkrabenweg
+286,Steinkauzweg
+287,Bachstelzenweg
+288,Goldammerweg
+289,Vogelsanger Markt
+29,Roonstr.
+290,Falkenweg
+291,Bocklemünd
+292,WDR
+293,Grevenbroicher Str.
+294,Nattermannallee
+295,Dohmengasse
+296,Kochwiesenstr.
+297,Auweilerweg
+298,Ollenhauerring
+299,Nüssenberger Str.
+3,Poststr.
+30,Friesenplatz
+300,Görlinger Zentrum
+301,Heinrich-Mann-Str.
+302,Buschweg
+303,Neusser Str./Gürtel
+304,Florastr.
+305,Lohsestr.
+306,Nordstr.
+307,Leipziger Platz
+308,Niehler Str.
+309,Kretzerstr.
+31,Hans-Böckler-Platz/Bf West
+310,Bergstr.
+311,Sechzigstr.
+312,Merheimer Platz
+313,Zoo/Flora
+314,Boltensternstr.
+315,Slabystr.
+316,Kinderkrankenhaus
+317,Amsterdamer Str./Gürtel
+318,Bodinusstr.
+319,Riehler Gürtel
+32,Christophstr./Mediapark
+320,Seniorenzentrum Riehl
+322,Ranzel Gewerbegebiet
+323,Xantener Str.
+324,Hahnwaldweg
+325,Geldernstr./Parkgürtel
+326,Escher Str.
+327,Nievenheimer Str.
+328,Ludwigsburger Str.
+329,Frankenthaler Str.
+33,Bismarckstr.
+330,Ebernburgweg
+331,Alzeyer Str.
+332,Am Bilderstöckchen
+334,Robert-Perthel-Str.
+335,Longericher Str. Nord
+336,Mollwitzstr.
+337,Scheibenstr.
+338,Nordfriedhof
+339,Nibelungenplatz
+34,Reichenspergerplatz
+340,Schmiedegasse
+341,Etzelstr.
+342,Niehl
+343,Niehl Sebastianstr.
+344,Ranzel Kirche
+345,Friedrich-Karl-Str./Niehler Str.
+346,Drosselweg
+347,Weidenpescher Str.
+348,Graditzer Str.
+349,Merkenicher Str.
+35,Ebertplatz
+350,Halfengasse
+351,Niehler Damm
+352,Niehl Betriebshof Nord
+354,St.Joseph-Kirche
+355,Meerfeldstr.
+356,Longericher Str.
+357,Longerich Friedhof
+358,Longerich S-Bahn
+359,Lindweilerweg
+36,Hansaring
+360,Dionysstr.
+361,Dädalusring
+362,Wilhelm-Sollmann-Str.
+363,Altonaer Platz
+364,Herforder Str.
+365,Bremerhavener Str.
+366,Esso
+3665,Alte Post
+367,Geestemünder Str.
+368,Fordwerke Süd
+369,Fordwerke Mitte
+37,Worringer Str.
+370,Fordwerke Nord
+371,Bonn Bad Godesberg Stadthalle
+372,Heinering
+3729,Neufeldweg
+373,Pesch Schulstr.
+374,Auweiler
+375,Hermann-Löns-Str.
+3751,Frankenforst
+376,Chorbuschstr.
+377,Esch
+378,Johannes-Prassel-Str.
+379,Sinnersdorfer Mühle
+38,Krefelder Wall
+380,Pescher Weg
+381,Otto-Müller-Str.
+382,Gewerbegebiet Pesch
+383,Donatusstr.
+384,Heimersdorf
+385,Chorweiler
+386,Karl-Marx-Allee
+387,Am Hetzepetsch
+388,Herstattallee
+389,Zypressenstr.
+39,Deutzer Freiheit
+390,Stallagsweg
+391,Pulheimer Str.
+392,Marienberger Weg
+393,Lindweilerfeld
+394,Unnauer Weg
+395,Seeberg
+396,Merianstr.
+397,Fühlinger Weg
+398,Friedhof Chorweiler
+399,Blockstr.
+4,Mauritiuskirche
+40,Suevenstr.
+400,Wezelostr.
+401,Weiler
+402,Volkhovener Weg
+403,Weichselring
+404,Haus Fühlingen
+405,Fühlingen
+406,Mennweg
+407,Langel Fähre
+408,Langel Nord
+409,Langel Mohlenweg
+41,Bf Deutz/Messe
+410,Langel Kuhlenweg
+411,Rheinkassel
+412,Oranjehofstr.
+413,Rheinlandstr.
+414,Edsel-Ford-Str.
+415,Robert-Bosch-Str.
+416,Merkenich Mitte
+417,Merkenich
+418,Schlettstadter Str.
+419,Kasselberg
+42,Koelnmesse
+420,Worringen S-Bahn
+421,Walter-Dodde-Weg
+422,Baptiststr.
+423,Further Str.
+424,Alte Römerstr.
+425,Worringen Süd
+426,St.-Tönnis-Str.
+427,Hackhauser Weg
+428,Wiedenfelder Weg
+429,Bitterstr.
+43,Propsthof Nord
+430,Dornstr.
+431,An den Kaulen
+433,Rolshover Str.
+434,Üdesheimer Weg
+434,Üdesheimer Weg
+435,Mühlenweiher
+436,Andreaskloster
+437,Ettore-Bugatti-Straße
+438,Poll Salmstr.
+439,Baumschulenweg
+44,Deutz Fachhochschule
+440,Schüttewerk
+441,Alfred-Schütte-Allee
+442,Poll Hauptstr.
+443,Im Wasserfeld
+444,Raiffeisenstr.
+445,Poller Holzweg
+446,Taubenholzweg
+447,Zündorfer Weg
+448,Siegburger Str.
+449,Westhoven Kölner Str.
+45,Severinsbrücke
+450,Westhoven Berliner Str.
+451,Ensen Gilgaustr.
+452,Ensen Kloster
+453,Albin-Köbis-Straße
+454,Hansestr. Ost
+455,Hansestr.
+456,Humboldtstr.
+457,Bonner Str.
+458,Eil Kirche
+459,Im Falkenhorst
+46,Drehbrücke
+460,Eil Heumarer Str.
+461,Maarhäuser Weg
+462,Hansestr. Süd
+463,Rudolf-Diesel-Str.
+464,Theodor-Heuss-Str.
+465,Stresemannstr.
+466,Porz Steinstr.
+467,Porz Markt
+468,Bf Porz
+469,Siemensstr.
+47,Poller Kirchweg
+470,Kopernikusschule
+471,Feuerwache
+472,Urbach Breslauer Str.
+473,Am Heiligenhäuschen
+474,Antoniusstr.
+475,Waldstr./Akazienweg
+476,Grengel Mauspfad
+477,Friedensstr.
+478,Wiesenweg
+479,Urbach Friedhof
+48,Betzdorfer Str.
+480,Friedrich-Hirsch-Str.
+481,Elsdorf
+482,Kaserne Nordtor
+484,Dorotheenstraße
+485,Berrenrather Str.
+486,Zündorf
+487,An St. Marien
+488,Wahn S-Bahn
+489,Wahn Kirche
+49,Bf Deutz/LANXESS arena
+490,Nachtigallenstr.
+491,Wahn Friedhof
+492,Linder Kreuz
+493,Troisdorfer Str.
+494,Linder Weg
+495,Linder Mauspfad
+496,Deutzer Ring
+4969,Siegburg Heinrichstr.
+497,Libur Kirche
+498,Libur Margaretenstr.
+499,Lucasstr.
+5,Gürzenichstr.
+500,Bieselweg
+501,Messe Omnibushof
+502,Kornblumenweg
+503,Guntherstr.
+504,Hagenstr.
+509,DLR
+51,Im Rheinpark
+510,Urbach Waldstr.
+511,Urbach Kaiserstr.
+512,Kalk Post
+513,Kalk Kapelle
+514,Eythstr.
+515,Steinmetzstr.
+516,Remscheider Str.
+517,Fuldaer Str.
+518,Höhenberg Frankfurter Str.
+519,Mülheimer Friedhof
+52,Pohligstr.
+520,Würzburger Str.
+521,Vingst
+522,Kürtenstr.
+523,Oranienstr.
+525,Feldbergstr.
+526,Weilburger Str.
+527,Am Grauen Stein
+528,Esserstr.
+529,Sachsenbergstr.
+53,Herthastr.
+530,Gremberg
+531,Gießener Str.
+532,Sauerlandstr.
+533,Ostheim
+534,Autobahn
+535,Buchheimer Weg
+536,Saarbrücker Str.
+537,Servatiusstr.
+539,Kalker Friedhof
+54,Gottesweg
+540,Merheim
+541,Broichstr.
+542,Bevingsweg
+543,Ostmerheimer Str.
+544,Wiehler Str.
+545,Gewerbegebiet Broichstr.
+546,Flehbachstr.
+547,Brück Mauspfad
+548,Erker Mühle
+549,Kleinfeldchensweg
+55,Kalscheurer Weg
+550,Bückebergstr.
+551,Olpener Str.
+552,Im Langen Bruch
+553,Steinweg
+554,Porzer Str.
+555,Röttgensweg
+556,Rath-Heumar
+557,Königsforst
+558,Schloss Röttgen
+559,Eiler Str.
+56,Zollstockgürtel
+560,Alte Forststr.
+561,Baldurstr.
+562,Europaring
+563,Straßburger Platz
+564,Ludwig-Quidde-Platz
+565,Rösrather Str.
+566,Auguste-Kowalski-Str.
+567,Stegerwaldsiedlung
+568,Grünstr.
+569,Buchforst Waldecker Str.
+57,Zollstock Südfriedhof
+570,Mülheim Wiener Platz
+571,Montanusstr.
+572,Bf Mülheim
+573,Graf-Adolf-Str.
+574,Kieler Str.
+577,Buchheim Frankfurter Str.
+578,Buchheim Herler Str.
+579,Wichheimer Str.
+58,Zollstocksweg
+580,Gronauer Str.
+581,Rheinbergstr.
+582,Beuthener Str.
+583,Holweide Vischeringstr.
+584,Maria-Himmelfahrt-Str.
+585,Neufelder Str.
+586,Holweide S-Bahn
+587,Grunerstr.
+588,Kühzällerweg
+589,Gerhart-Hauptmann-Str.
+59,Roisdorfer Str.
+590,Buschfeldstr.
+591,Burgwiesenstr.
+592,Colonia-Allee
+593,Schlagbaumsweg
+594,Dellbrück Mauspfad
+595,Dellbrück Hauptstr.
+596,Thielenbruch
+597,Eggerbachstr.
+598,Ostfriedhof
+599,Siedlung Mielenforst
+6,Rathaus
+60,Kendenicher Str.
+600,Thurner Kamp
+601,Von-Quadt-Str.
+602,Diepeschrather Str.
+603,Anemonenweg
+604,Dellbrück S-Bahn
+605,Neurather Weg
+606,Im Weidenbruch
+607,Am Emberg
+608,Leuchterstr.
+609,Odenthaler Str.
+61,Oberer Komarweg
+610,Honschaftsstr.
+611,Am Springborn
+612,Jasminweg
+613,Sigwinstr.
+614,Birkenweg
+615,Höhscheider Weg
+616,Lippeweg
+617,Klosterhof
+618,Hildegundweg
+619,Am Portzenacker
+62,Brüggener Str.
+620,Leimbachweg
+621,Paul-Reifenberg-Str.
+622,Kalkweg
+623,Wildpark
+624,An der Walkmühle
+625,Steinstr. S-Bahn
+626,Mutzbach
+627,Am Weißen Mönch
+628,Bornheim Rathaus
+629,Goldregenweg
+63,Bernkasteler Str.
+630,Aeltgen-Dünwald-Str.
+631,Keupstr.
+632,Von-Sparr-Str.
+633,Mülheim Berliner Str.
+634,Dünnwalder Str.
+635,Von-Lohe-Str.
+636,Am Faulbach
+637,Neuer Mülheimer Friedhof
+638,Bruder-Klaus-Siedlung
+639,Von-Galen-Str.
+64,Rheinsteinstr.
+640,Moses-Hess-Str.
+641,Stammheimer Ring
+642,Bonhoefferstr.
+643,Sparkasse
+644,Friedhof Stammheim
+645,Egonstr.
+646,Barbarastr.
+647,Flittard Süd
+648,Flittarder Feld
+649,Am Feldrain
+65,Schönhauser Str.
+650,Edelhofstr.
+651,Welserstr.
+652,Nibelungenstr.
+653,Ebertplatz/Riehler Str.
+654,Wiedstr.
+655,Im Hoppenkamp
+656,Sportplatzstr.
+657,Frankfurter Str. S-Bahn
+6578,Ranzel Schulstr.
+658,Marienplatz
+659,Vitalisstr. Nord
+66,Marktstr.
+661,Gunther-Plüschow-Str.
+662,Eddaweg
+663,Schlebusch
+665,Bensberg
+666,Kölner Str.
+667,Neuenweg
+668,Lustheide
+669,Refrath
+67,Koblenzer Str.
+670,Kippekausen
+671,Frankenforst
+672,Roisdorf West
+673,Bornheim
+674,Dersdorf
+675,Waldorf
+676,Merten
+677,Walberberg
+678,Hersel
+679,Uedorf
+68,Tacitusstr.
+680,Widdig
+681,Alfter / Alanus Hochschule
+682,Friedhof Lehmbacher Weg
+683,Museum Koenig
+684,Bundesrechnungshof
+685,Juridicum
+686,Universitaet/Markt
+687,Bonn Hauptbahnhof
+688,Bonn West
+689,Brühler Straße
+69,Mannsfeld
+690,Olof-Palme-Allee
+691,Ollenhauerstraße
+692,Heussallee/Museumsmeile
+693,Tannenbusch Süd
+694,Tannenbusch Mitte
+695,Buschdorf
+696,Robert-Kirchhoff-Straße
+697,Dransdorf
+698,Max-Löbner-Str./Friesdorf
+699,Hochkreuz
+7,Appellhofplatz
+70,Cäsarstr.
+700,Wurzerstraße
+701,Plittersdorfer Straße
+702,Weiden West S-Bahn
+703,Porz-Langel Süd
+704,Sinnersdorf Kirche
+705,Am Zehnthof
+7054,Wingertsheide
+706,Kesselsgasse
+707,Hücheln Krankenhaus
+708,Frechen-Benzelrath
+709,Mühlengasse
+71,Leichweg
+710,Frechen Rathaus
+711,Frechen Kirche
+712,Frechen Bf
+713,Haus Vorst
+714,Im Klarenpesch
+715,Dr.-Schultz-Str.
+716,Kapfenberger Str.
+717,Freiheitsring
+718,Hüchelner Str.
+719,Schokoladenmuseum
+72,Liblarer Str.
+720,Elisabethstr.
+721,Rotdornweg
+722,Gut Neuenhof
+723,Grachtenhofstr.
+724,Mauritiusschule
+725,Lahnstr.
+726,Lindenbuschweg
+727,Wilhelm-Leuschner-Str.
+728,Carl-Goerdeler-Str.
+729,Imbuschstr.
+73,Heeresamt
+730,Efferen
+731,Fischenich
+732,Kiebitzweg
+733,Hürth-Hermülheim
+734,Brühl Nord
+735,Brühl Mitte
+736,Brühl Süd
+737,Badorf
+738,Brühl-Vochem
+739,Schwadorf
+7394,St. Vincenz Haus
+74,Brühler Str./Gürtel
+740,Wesseling Süd
+741,Wesseling
+742,Wesseling Nord
+743,Urfeld
+744,Rheinauhafen
+745,Luftfracht Köln/Bonn
+746,Johannesstr.
+747,Mozartstr.
+748,Kapellenweg
+749,Friedhof Worringen
+75,Wasserwerk
+750,Nippes S-Bahn
+751,Ramrather Weg
+752,Kierberger Str.
+753,Metternicherstr.
+754,Auf der Freiheit
+755,Albrecht-Dürer-Platz
+756,Innere Kanalstr.
+757,Zündorf Marktstr.
+758,Zündorf Kirche
+759,Zündorf Altersheim
+76,Bayenthalgürtel
+760,Zündorf Mitte
+761,Zündorf Olefsgasse
+7610,Rathenaustr.
+762,Zündorf Ranzeler Str.
+763,Oberzündorf
+764,Porz-Langel Nord
+765,Porz-Langel Mühle
+766,Porz-Langel Zur Eiche
+767,Porz-Langel Kirche
+768,Schadowstr.
+769,Methweg
+7699,Siegburg Friedrich-Ebert-Str.
+77,Ranzel Schule
+770,Schirmerstr.
+771,Mechternstr.
+772,Pettenkoferstr.
+7726,Mondorf Rosenthalstr.
+773,Mülhauser Str.
+774,Escher See
+775,Am Braunsacker
+777,Reiherstr.
+778,Stolberger Str.
+779,Buchforst S-Bahn
+78,Goltsteinstr./Gürtel
+780,Rodenkirchen Bismarckstr.
+781,Gewerbegebiet Pesch Nord
+783,Bonntor
+784,Beuelsweg Nord
+785,Friedenspark
+786,Indianapolis-Straße
+787,Am Schildchen
+788,August-Horch-Str.
+789,Trifelsstr.
+79,Marienburger Str.
+790,Hansestr. West
+791,Weiden Einkaufszentrum
+792,Cheruskerstr.
+793,Im Wichemshof
+794,Dünnwald Waldbad
+795,Im Wirtskamp
+798,Reischplatz
+799,TÜV-Akademie
+8,Dom/Hbf
+80,Marienburg Südpark
+800,Mülheimer Ring
+801,Imbacher Weg
+802,Hahnwald Im Hasengarten
+803,Birkenweg Schleife
+804,Zur Abtei
+805,Talweg
+806,Thermalbad
+807,Zum Neuen Kreuz
+808,Rosmarinweg
+809,Palmenhof
+81,Bonner Str./Gürtel
+810,Arenzhof
+811,Weilerweg
+812,Arthur-Hantzsch-Str.
+813,Stammheim S-Bahn
+814,Chempark S-Bahn
+815,Osterather Str.
+816,Trimbornstr.
+817,Leopold-Gmelin-Str.
+818,Nesselrodestr.
+819,Sprengelstr.
+82,Gaedestr.
+820,Niehler Kirchweg
+821,Gauweg
+822,Pasteurstr.
+823,Göttinger Str.
+824,St. Vinzenz-Hospital
+825,Wilhelmstr.
+826,Cranachstr.
+827,Beuelsweg
+828,Kuenstr.
+829,Schneider-Clauss-Str.
+83,Leyboldstr.
+830,Bahnstr.
+831,Klinikum Merheim
+832,Auf dem Streitacker
+833,Lessingstr.
+834,Marienstr.
+835,Bf Ehrenfeld
+836,Takustr.
+837,Zonser Str.
+838,Friedrich-Karl-Str./Neusser Str.
+839,Stommeler Str.
+84,Arnoldshöhe
+840,Immendorf Schule
+841,Am Nordpark
+842,Gisbertstr.
+843,LVR-Klinik
+845,Melli-Beese-Str.
+846,Wiso-Fakultät
+847,Lindenweg
+848,TechnologiePark Mitte
+849,Franziska-Anneke-Str.
+85,Am Kölnberg
+850,Prälat-van-Acken-Str.
+851,Amselstr.
+852,Am Serviesberg
+853,Morsestr.
+854,Marconistr.
+855,Feldkasseler Weg
+856,Florenzer Str.
+857,Esch Friedhof
+858,Marconistr. Ost
+859,Güterverkehrszentrum
+86,Meschenich Kirche
+860,Longericher Str./Etzelstr.
+861,Hugo-Junkers-Str.
+862,Glashüttenstr.
+863,Klingerstr.
+864,Flughafen Verwaltung
+866,Bachemer Str.
+867,Edmund-Rumpler-Str.
+868,Hopfenstr.
+869,Ranzel Weilerhof
+87,Engeldorfer Str.
+870,Heinrich-Steinmann-Str.
+871,IKEA Godorf
+872,Bistritzer Str.
+873,Wattstr.
+874,Am Vorgebirgstor
+875,Justizzentrum
+8756,Blumenberg S-Bahn
+8758,Siegburg Zum Hohen Ufer
+876,Südbahnhof
+877,Am Leinacker
+878,Heinz-Kühn-Str.
+879,Roteichenweg
+88,Frankenstr.
+880,Freiligrathstr.
+881,Weserpromenade
+882,Neißestr.
+883,Havelstr.
+884,Habichtstraße
+885,Neven DuMont Haus
+886,Schulzentrum Wahn
+887,Scheuermühlenstr.
+888,Kaserne Haupttor
+889,An der alten Post
+89,Engeldorfer Hof
+890,Deutzer Friedhof
+891,Schanzenstr./Schauspielhaus
+892,Köln/Bonn Flughafen
+895,Schumacherring
+897,Heinrich-Lübke-Ufer
+898,Am Hochkreuz
+899,Am Coloneum
+9,Breslauer Platz/Hbf
+90,Kettelerstr.
+900,CöllnParc
+901,Voltastr.
+9029,Stiftsstr.
+903,Sparkasse Am Butzweilerhof
+904,Grüner Weg
+905,Am Feldrain (Sürth)
+908,Schanzenstr. Nord
+909,Celsiusstr.
+91,Josef-Lammerting-Allee
+910,Belvederestr.
+911,Carlswerkstraße
+913,Volksgarten
+914,Zugweg
+915,Güterverkehrszentrum Süd
+916,Paul-Nießen-Str.
+918,Im Rheintal
+919,Lüderichstr.
+92,Höningen Rondorfer Weg
+920,Gummersbacher Straße
+921,Corintostraße
+922,Kalk-Karree
+923,Christian-Sünner-Straße
+924,Heinrich-Bützler-Straße
+925,Lentpark
+926,Curt-Stenvert-Bogen
+927,Gut Leidenhausen
+928,Kallbergstr.
+929,Oskar-Schindler-Str.
+93,Höningen Siedlung
+930,Am Eifeltor
+9326,Mondorf Provinzialstr.
+9327,Niederkassel Waldstr.
+933,Klaprothstr.
+94,Bonner Landstr.
+95,Hochkirchen
+96,Lerchenweg
+97,Rondorf
+976,IKEA Am Butzweilerhof
+978,Josephstr.
+979,Katharinenhof
+98,Bödinger Str.
+981,Btf. Merheim
+99,Westerwaldstr.
