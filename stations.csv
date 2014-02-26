@@ -82,7 +82,9 @@ id,assnr,name,x,y
 82,90,"Kettelerstr., Köln-Meschenich",6.9320625,50.8610255
 83,91,"Josef-Lammerting-Allee, Köln-Müngersdorf",6.8874236,50.9456048
 84,92,"Höningen Rondorfer Weg, Köln",6.9368854,50.8802139
+85,93,"Höningen Siedlung, Köln",6.9394459,50.8837218
 86,94,"Bonner Landstr., Köln-Hochkirchen",6.9697420,50.8831017
+87,95,"Hochkirchen, Köln",6.9629391,50.8790258
 88,96,"Lerchenweg, Köln-Hochkirchen",6.9608238,50.8776578
 89,97,"Rondorf, Köln",6.9548053,50.8738829
 90,98,"Bödinger Str., Köln-Rondorf",6.9508740,50.8743896
@@ -91,6 +93,7 @@ id,assnr,name,x,y
 93,102,"Friedhof Steinneuerhof, Köln-Rondorf",6.9374537,50.8734606
 94,103,"Kirschbaumweg, Köln-Hahnwald",6.9934863,50.8728097
 95,104,"Mannesmannstr., Köln-Hahnwald",6.9912997,50.8687878
+96,105,"Hahnwald, Köln",6.9779994,50.8700331
 97,106,"Rodenkirchen Bf, Köln",6.9900637,50.8909093
 98,107,"Siegstr. (Stadtbahn), Köln-Rodenkirchen",6.9946553,50.8833256
 99,108,"Michaelshoven, Köln-Rodenkirchen",6.9989244,50.8762668
@@ -115,6 +118,7 @@ id,assnr,name,x,y
 119,129,"Hammerschmidtstr., Köln-Sürth",7.0209020,50.8708766
 120,130,"Ritterstr., Köln-Weiß",7.0243630,50.8727250
 121,131,"Weißer Hauptstr., Köln-Weiß",7.0293768,50.8755080
+122,132,"Weiß Friedhof, Köln",7.0268427,50.8772819
 123,133,"Zum Hedelsberg, Köln-Weiß",7.0211110,50.8790285
 124,134,"Godorf Bf, Köln",6.9785469,50.8475220
 125,135,"Pierstr., Köln-Godorf",6.9757442,50.8485976
@@ -122,6 +126,7 @@ id,assnr,name,x,y
 127,137,"Bunsenstr., Köln-Godorf",6.9752009,50.8535978
 128,138,"Friedhof Godorf, Köln",6.9710640,50.8503780
 129,139,"Immendorf Siedlung, Köln",6.9655578,50.8538257
+130,140,"Immendorf, Köln",6.9595277,50.8585142
 131,141,"Zaunhof, Köln-Immendorf",6.9550434,50.8603244
 132,142,"Mohnweg, Köln-Junkersdorf",6.8554011,50.9379697
 133,143,"Universitätsstr., Köln-Lindenthal",6.9246519,50.9366582
@@ -198,6 +203,7 @@ id,assnr,name,x,y
 207,221,"Selma-Lagerlöf-Str., Köln-Weiden",6.8286040,50.9418094
 208,222,"Frechener Weg, Köln-Weiden",6.8266808,50.9390934
 209,223,"Üsdorf, Köln-Weiden",6.8267673,50.9351017
+210,224,"Weiden Sportplatz, Köln",6.8411109,50.9422482
 211,225,"Stormstr., Köln-Weiden",6.8452360,50.9420097
 212,227,"Ostlandstr., Köln-Weiden",6.8330033,50.9356764
 213,228,"Rosenhügel, Köln-Zündorf",7.0600378,50.8741510
@@ -241,6 +247,7 @@ id,assnr,name,x,y
 252,268,"Emilstr., Köln-Bickendorf",6.8978879,50.9664165
 253,269,"Erlenweg, Köln-Bickendorf",6.8955516,50.9683171
 254,270,"Mühlenweg, Köln-Ossendorf",6.8911095,50.9704764
+255,271,"Ossendorf, Köln",6.9045087,50.9769054
 256,272,"Rektor-Klein-Str., Köln-Ossendorf",6.9046586,50.9742099
 257,273,"Margaretastr., Köln-Ossendorf",6.9055249,50.9682536
 258,274,"Alter Flughafen Butzweilerhof, Köln-Ossendorf",6.8974680,50.9776063
@@ -326,12 +333,14 @@ id,assnr,name,x,y
 342,363,"Altonaer Platz, Köln-Longerich",6.9333725,50.9938783
 343,364,"Herforder Str., Köln-Longerich",6.9261713,50.9946141
 344,365,"Bremerhavener Str., Köln-Longerich",6.9369226,50.9973767
+345,366,"Esso, Köln-Longerich",6.9295834,51.0072838
 346,367,"Geestemünder Str., Köln-Niehl",6.9553087,51.0019001
 347,368,"Fordwerke Süd, Köln-Niehl",6.9554054,51.0058590
 348,369,"Fordwerke Mitte, Köln-Niehl",6.9554536,51.0118946
 349,370,"Fordwerke Nord, Köln-Niehl",6.9554408,51.0173715
 351,372,"Heinering, Köln-Pesch",6.8724433,50.9961659
 352,373,"Pesch Schulstr., Köln",6.8696186,50.9990284
+353,374,"Auweiler, Köln",6.8529609,51.0026446
 354,375,"Hermann-Löns-Str., Köln-Auweiler",6.8534442,51.0051448
 355,376,"Chorbuschstr., Köln-Esch",6.8577835,51.0127523
 357,378,"Johannes-Prassel-Str., Köln-Esch",6.8471078,51.0145346
@@ -351,6 +360,7 @@ id,assnr,name,x,y
 371,392,"Marienberger Weg, Köln-Lindweiler",6.8927918,51.0000154
 372,393,"Lindweilerfeld, Köln-Lindweiler",6.8896165,51.0030879
 373,394,"Unnauer Weg, Köln-Lindweiler",6.8901590,51.0065243
+374,395,"Seeberg, Köln",6.9181737,51.0188628
 375,396,"Merianstr., Köln-Chorweiler",6.9101943,51.0273003
 376,397,"Fühlinger Weg, Köln-Volkhoven/Weiler",6.8880696,51.0205078
 377,398,"Friedhof Chorweiler, Köln-Volkhoven/Weiler",6.8810474,51.0181502
@@ -604,6 +614,7 @@ id,assnr,name,x,y
 707,746,"Johannesstraße, Köln-Pesch",6.8771227,50.9982477
 708,747,"Mozartstraße, Köln-Pesch",6.8739237,51.0011934
 709,748,"Kapellenweg, Köln-Pesch",6.8767624,51.0011461
+710,749,"Friedhof Worringen, Köln",6.8607820,51.0631272
 711,750,"Nippes S-Bahn, Köln",6.9414964,50.9584336
 712,751,"Ramrather Weg, Köln-Worringen",6.8515487,51.0674187
 713,754,"Auf der Freiheit, Köln-Meschenich",6.9233202,50.8569309
@@ -669,6 +680,7 @@ id,assnr,name,x,y
 774,821,"Gauweg, Köln-Buchheim",7.0272898,50.9625678
 775,822,"Pasteurstr., Köln-Niehl",6.9768255,50.9715704
 776,823,"Göttinger Str., Köln-Weiden",6.8393251,50.9356317
+777,824,"St. Vinzenz-Hospital, Köln-Nippes",6.9466826,50.9654771
 778,825,"Wilhelmstr., Köln-Nippes",6.9518696,50.9618538
 779,826,"Cranachstr., Köln-Nippes",6.9540357,50.9611723
 780,827,"Beuelsweg, Köln-Nippes",6.9601372,50.9629788
@@ -746,6 +758,7 @@ id,assnr,name,x,y
 856,922,"Kalk-Karree, Köln",7.0022780,50.9350985
 857,923,"Christian-Sünner-Str., Köln-Kalk",7.0091829,50.9347218
 858,924,"Heinrich-Bützler-Str., Köln-Kalk",7.0117523,50.9355481
+859,925,"Lentpark, Köln-Innenstadt",6.9636773,50.9588855
 860,926,"Curt-Stenvert-Bogen, Köln-Lövenich",6.8289244,50.9538762
 861,927,"Gut Leidenhausen, Köln-Eil",7.0973662,50.8964494
 862,928,"Kallbergstr., Köln-Blumenberg",6.8836482,51.0402500
