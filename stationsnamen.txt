@@ -1,5 +1,6 @@
 Aachener Str./Gürtel
 Aachener Straße / Gürtel
+Adolf-Menzel-Str.
 Adrian-Meller-Str.
 Adrian-Meller-Straße
 Aeltgen-Dünwald-Str.
@@ -7,9 +8,13 @@ Aeltgen-Dünwald-Straße
 Airport Business Park
 Akazienweg
 Albin-Köbis-Straße
+Albrecht-Dürer-Platz
 Alfred-Schütte-Allee
+Alfter / Alanus Hochschule
 Alte Forststr.
 Alte Forststraße
+Alte Post
+Alte Römerstr.
 Alte Römerstraße
 Alteburger Wall
 Alter Deutzer Postweg
@@ -22,10 +27,13 @@ Alzeyer Straße
 Am Bilderstöckchen
 Am Braunsacker
 Am Coloneum
+Am Eifeltor
 Am Emberg
 Am Faulbach
 Am Feldrain
+Am Feldrain (Sürth)
 Am Grauen Stein
+Am Heiligenhäuschen
 Am Hetzepetsch
 Am Hochkreuz
 Am Kreuzweg
@@ -36,10 +44,12 @@ Am Neuen Forst
 Am Nordpark
 Am Portzenacker
 Am Schildchen
+Am Serviesberg
 Am Springborn
 Am Steinneuerhof
 Am Vorgebirgstor
 Am Weißen Mönch
+Am Zehnthof
 Am Zehnthof 1
 Amselstr.
 Amselstraße
@@ -47,6 +57,7 @@ Amsterdamer Str./Gürtel
 Amsterdamer Straße / Gürtel
 Amsterdamer Straße/Gürtel
 An den Kaulen
+An der alten Post
 An der Ronne
 An der Walkmühle
 An St. Marien
@@ -57,6 +68,7 @@ Antoniusstr.
 Appellhofplatz
 Arenzhof
 Arnoldshöhe
+Arnulfstr.
 Arnulfstraße
 Arthur-Hantzsch-Str.
 Arthur-Hantzsch-Straße
@@ -75,8 +87,10 @@ Auweilerweg
 Bachemer Str.
 Bachemer Straße
 Bachstelzenweg
+Bad Godesb. Bf/Löbestr.
 Bad Godesberg Bf
 Bad Godesberg Stadthalle
+Badorf
 Bahnhof Deutz
 Bahnhof Mülheim
 Bahnhof Rodenkirchen
@@ -99,11 +113,18 @@ Belvederstrasse
 Bensberg
 Bensberg Busbahhof
 Benzelrath
+Bergheim Friedhof
+Bergheim Fährhaus
+Bergheim Grundschule
+Bergheim Industriegebiet
+Bergheim Kirche
 Bergisch-Gladbacher-Straße
 Bergstr.
 Bergstraße
 Berliner Straße
+Bernkasteler Str.
 Bernkasteler Straße
+Berrenrather Str.
 Berrenrather Str./Gürtel
 Berrenrather Straße
 Berrenrather Straße/Gürtel
@@ -116,6 +137,7 @@ Beuthener Straße
 Bevingsweg
 Bf Deutz / Messe LANXESS arena
 Bf Deutz/Lanxess arena
+Bf Deutz/LANXESS arena
 Bf Deutz/Messe
 Bf Deutz/Messe / LANXESS arena
 Bf Deutz/Messeplatz
@@ -129,20 +151,29 @@ Bieselweg
 Birkenallee
 Birkenweg
 Birkenweg Schleife
+Bismarckstr.
 Bistritzer Str.
+Bitterstr.
 Bitterstraße
+Bl\u00e9riotstr.
 Blaugasse
 Bleriotstr.
 Blockstr.
 Blockstraße
 Blumenberg (S)
+Blumenberg S-Bahn
 Blériotstraße
 Bocklemünd
 Bodinusstr.
 Bodinusstraße
+Boltensternstr.
 Boltensternstraße
 Bonhoefferstr.
 Bonhoefferstraße
+Bonn Bad Godesberg Stadthalle
+Bonn Bertha-von-Suttnerplatz
+Bonn Hauptbahnhof
+Bonn West
 Bonner Landstr.
 Bonner Landstraße
 Bonner Str.
@@ -150,6 +181,8 @@ Bonner Str./Gürtel
 Bonner Straße
 Bonner Straße/Gürtel
 Bonntor
+Bornheim
+Bornheim Rathaus
 Borsigstr.
 Borsigstraße
 Brahmsstr.
@@ -166,10 +199,16 @@ Bruder-Klaus-Siedlung
 Brück Mauspfad
 Brück-Mauspfad Bus
 Brück-Mauspfad Gleis 3
+Brüggener Str.
 Brügger Straße
+Brühl Mitte
+Brühl Nord
+Brühl Süd
+Brühl-Vochem
 Brühler Str./Gürtel
 Brühler Straße
 Brühler Straße/Gürtel
+Btf. Merheim
 Buchforst S-Bahn
 Buchforst Waldecker Str.
 Buchforst Waldecker Straße
@@ -178,6 +217,7 @@ Buchheim Frankfurter Straße
 Buchheim Herler Str.
 Buchheim Herler Straße
 Buchheimer Weg
+Bundesrechnungshof
 Bundesrechnungshof/Auswärtiges Amt
 Bunsenstr.
 Bunsenstraße
@@ -196,8 +236,10 @@ Bödinger Straße
 Bückebergstr.
 Bückebergstraße
 Campingplatz
+Carl-Goerdeler-Str.
 Carlswerkstraße
 Celsiusstr.
+Chempark S-Bahn
 CHEMPARK Tor 10
 Cheruskerstr.
 Cheruskerstraße
@@ -206,13 +248,17 @@ Chorbuschstr.
 Chorbuschstraße
 Chorweiler
 Chorweiler Nord (S)
+Christian-Sünner-Straße
 Christophstr./Mediapark
 Christophstraße
 Christophstraße / Mediapark
 Clarenbachstift
 Colonia Allee
 Colonia-Allee
+Corintostraße
+Cranachstr.
 Cranachstraße
+Curt-Stenvert-Bogen
 Cäsarstr.
 Cäsarstraße
 CöllnParc
@@ -227,6 +273,7 @@ Dellbrück Mauspfad
 Dellbrück S-Bahn
 Dellbrück, Hauptstraße
 Dellbrück, Mauspfad
+Dersdorf
 Deutz Fachhochschule
 Deutz Messe/Osthalle
 Deutz-Kalker Bad
@@ -234,6 +281,7 @@ Deutzer Freiheit
 Deutzer Friedhof
 Deutzer Ring
 Diepenbeckallee
+Diepenbeekallee
 Diepeschrather Str.
 Diepeschrather Straße
 Dieselstr.
@@ -244,15 +292,20 @@ Dohmengasse
 Dom / Hbf
 Dom/Hbf
 Dom/Hbf.
+Donatusstr.
 Donatusstraße
+Dornstr.
 Dornstraße
 Dorotheenstr.
 Dorotheenstraße
+Dr.-Schultz-Str.
+Dransdorf
 Drehbrücke
 Drosselweg
 Dt. Telekom/Ollenhauerstr.
 Dt. Telekom/Olof-Palme-Allee
 Dädalusring
+Dünnwald Waldbad
 Dünnwalder Str.
 Dünnwalder Straße
 Dürener Str./Gürtel
@@ -273,8 +326,10 @@ Ebertplatz/Riehler Str.
 Eddaweg
 Edelhofstr.
 Edelhofstraße
+Edmund-Rumpler-Str.
 Edsel-Ford-Str.
 Edsel-Ford-Straße
+Efferen
 Egelspfad
 Eggerbachstr.
 Eggerbachstraße
@@ -292,6 +347,8 @@ Eiler Str.
 Eiler Straße
 Einkaufszentrum
 Einkaufzentrum Weiden
+Elisabeth-Breuer-Str.
+Elisabethstr.
 Elsdorf
 Emilstr.
 Emilstraße
@@ -305,6 +362,7 @@ Ensen Kloster
 Ensen, Kloster
 Erker Mühle
 Erlenweg
+Ernst-Volland-Str.
 Ernst-Volland-Straße
 Esch
 Esch Friedhof
@@ -312,6 +370,8 @@ Escher See
 Escher Str.
 Escher Straße
 Escher Straße 
+Eschmar Bergheimer Str.
+Eschmar Kirche
 Esserstr.
 Esserstraße
 Esso
@@ -332,6 +392,7 @@ Feldkasseler Weg
 Feltenstr.
 Feltenstraße
 Feuerwache
+Fischenich
 Flachsweg
 Flehbachstr.
 Flehbachstraße
@@ -341,6 +402,7 @@ Florastr.
 Florastraße
 Florenzer Str.
 Florenzer Straße
+Flughafen Verwaltung
 Ford Werke Mitte
 Ford Werke Nord
 Ford Werke Süd
@@ -353,11 +415,13 @@ Frankenstraße
 Frankenthaler Str.
 Frankenthaler Straße
 Frankfurter Str.
+Frankfurter Str. S-Bahn
 Frankfurter Straße
 Frankstr.
 Frankstraße
 Franziska-Anneke-Str.
 Franziska-Anneke-Straße
+Frechen Bf
 Frechen Bf.
 Frechen Kirche
 Frechen Rathaus
@@ -365,8 +429,10 @@ Frechen, Kirche
 Frechen, Rathaus
 Frechen-Benzelrath
 Frechener Weg
+Freiheitsring
 Freiligrathstr.
 Freiligrathstraße
+Friedenspark
 Friedensstr.
 Friedensstraße
 Friedhof Chorweiler
@@ -378,6 +444,8 @@ Friedhof Worringen
 Friedr.-Karl-Str./Neusser Str.
 Friedrich-Hirsch-Str.
 Friedrich-Hirsch-Straße
+Friedrich-Karl-Str./Neusser Str.
+Friedrich-Karl-Str./Niehler Str.
 Friedrich-Karl-Straße/Neusser Straße
 Friedrich-Karl-Straße/Niehler Straße
 Friesenplatz
@@ -408,6 +476,7 @@ Gerhart-Hauptmann-Straße
 Gewerbegebiet Broichstr.
 Gewerbegebiet Broichstraße
 Gewerbegebiet Pesch
+Gewerbegebiet Pesch Nord
 Gewerbegebiet Pesch-Nord
 Gießener Str.
 Gilgaustraße
@@ -424,6 +493,8 @@ Goldregenweg
 Goltsteinstr./Gürtel
 Goltsteinstraße/Gürtel
 Gottesweg
+Grachtenhofstr.
+Graditzer Str.
 Graditzer Straße
 Graf-Adolf-Str.
 Graf-Adolf-Straße
@@ -435,13 +506,20 @@ Grimmelshausenstr.
 Grimmelshausenstraße
 Gronauer Str.
 Gronauer Straße
+Grunerstr.
 Grunerstraße
+Grüner Weg
+Grüngürtelstr.
 Grüngürtelstraße
+Grünstr.
 Grünstraße
+Gummersbacher Straße
 Gunther-Plüschow-Str.
 Gunther-Plüschow-Straße
 Guntherstr.
 Guntherstraße
+Gut Leidenhausen
+Gut Neuenhof
 Gutenbergstr.
 Gutenbergstraße
 Görlinger Zentrum
@@ -450,8 +528,12 @@ Gürzenichstr.
 Güterverkehrszentrum
 Güterverkehrszentrum Süd
 Habichtstr.
+Habichtstraße
 Hackhauser Weg
+Hagenstr.
 Hahnwald
+Hahnwald Im Hasengarten
+Hahnwaldweg
 Halfengasse
 Hammerschmidtstr.
 Hammerschmidtstraße
@@ -461,6 +543,7 @@ Hans-Böckler-Platz / Bahnhof West
 Hans-Böckler-Platz/Bf West
 Hansaring
 Hanse Straße Süd
+Hansestr.
 Hansestr. Ost
 Hansestr. Süd
 Hansestr. West
@@ -472,12 +555,15 @@ Haus Fühlingen
 Haus Vorst
 Havelstr.
 Havelstraße
+Heeresamt
 Heimersdorf
 Heinering
+Heinrich-Bützler-Straße
 Heinrich-Lübcke-Ufer
 Heinrich-Lübke-Ufer
 Heinrich-Mann-Str.
 Heinrich-Mann-Straße
+Heinrich-Steinmann-Str.
 Heinz-Kühn-Str.
 Heinz-Kühn-Straße
 Helaweg
@@ -497,6 +583,7 @@ Heussallee/Museumsmeile
 Hildegardis-Krankenhaus
 Hildegundweg
 Hochkirchen
+Hochkreuz
 Hochkreuz/Deutsches Museum Bonn
 Hohenlind
 Holweide S-Bahn
@@ -518,6 +605,9 @@ Höhenberg, Frankfurter Str.
 Höhscheider Weg
 Höningen Rondorfer Weg
 Höningen Siedlung
+Hücheln Krankenhaus
+Hüchelner Str.
+Hürth-Hermülheim
 IKEA Am Butzweilerhof
 IKEA Godorf
 Iltisstr.
@@ -526,6 +616,7 @@ Im Buschfelde
 Im Falkenhorst
 Im Hoppekamp
 Im Hoppenkamp
+Im Klarenpesch
 Im Langen Bruch
 Im Rheinpark
 Im Rheintal
@@ -534,6 +625,7 @@ Im Weidenbruch
 Im Wichemshof
 Im Wirtskamp
 Imbacher Weg
+Imbuschstr.
 Immendorf
 Immendorf Schule
 Immendorf Siedlung
@@ -545,24 +637,31 @@ Jasminweg
 Johann-Bensberg-Str. 1
 Johannes-Prassel-Str.
 Johannes-Prassel-Straße
+Johannesstr.
 Johannesstraße
 Josef-Lammerting-Allee
+Josephstr.
 Junkersdorf
 Juridicum
 Justizzentrum
 Kalk Friedhof
 Kalk Kapelle
 Kalk Post
+Kalk-Karree
 Kalker Friedhof
 Kalkweg
+Kallbergstr.
 Kalscheuren Bf
+Kalscheurer Weg
 Kapellenweg
+Kapfenberger Str.
 Karl-Marx-Allee
 Karl-Schwering-Platz
 Karnevalsmuseum
 Kaserne Haupttor
 Kaserne Nordtor
 Kasselberg
+Katharinenhof
 Kendenicher Str.
 Kendenicher Straße
 Kesselsgasse
@@ -570,13 +669,16 @@ Kettelerstr.
 Kettelerstraße
 Keupstr.
 Keupstraße
+Kiebitzweg
 Kieler Str.
 Kieler Straße
+Kierberger Str.
 Kinderkrankenhaus
 Kippekausen
 Kirschbaumweg
 Kitschburger Str.
 Kitschburger Straße
+Klaprothstr.
 Kleinfeldchensweg
 Kleingartenanlage
 Klettenbergpark
@@ -592,6 +694,7 @@ Koelnmesse
 Kolkrabenweg
 Konrad-Adenauer-Str.
 Konrad-Adenauer-Straße
+Konradstr.
 Konradstraße
 Kopernikusschule
 Koppensteinstr.
@@ -638,6 +741,7 @@ Köln/Bonn Flughafen Verwaltung
 Kölner Str.
 Kölner Straße
 Kölner Weg
+Kölnstr.
 Kölnstraße
 Kölnstraße 1
 Königsdorf Bf
@@ -648,6 +752,7 @@ Kühzällerweg
 Kürtenstr.
 Kürtenstraße
 Lacher Broch
+Lahnstr.
 Lahnstr. 1
 Langel Fähre
 Langel Kirche
@@ -663,9 +768,11 @@ Leimbachweg
 Leinsamenweg
 Leipziger Platz
 Lenauplatz
+Lentpark
 Leopold-Gmelin-Str.
 Leopold-Gmelin-Straße
 Lerchenweg
+Lessingstr.
 Lessingstraße
 Leuchterstr.
 Leuchterstraße
@@ -682,6 +789,7 @@ Liebigstr.
 Liebigstraße
 Lindenburg
 Lindenburg (Universitätskliniken)
+Lindenbuschweg
 Lindenweg
 Linder Kreuz
 Linder Mauspfad
@@ -711,6 +819,11 @@ LVR-Klinik
 Lövenich
 Lövenich Bf
 Lüderichstr.
+Lülsdorf Hallenbad
+Lülsdorf Kirche
+Lülsdorf Nord
+Lülsdorf Schulzentrum
+Lülsdorf Uhlandstr.
 Maarhäuser Weg
 Maarweg
 Mannesmannstr.
@@ -729,20 +842,24 @@ Marienburg Südpark
 Marienburger Str.
 Marienburger Straße
 Marienplatz
+Marienstr.
 Marienstraße
 Marktplatz Sürth
+Marktstr.
 Marktstraße
 Marsdorf
 Maternusplatz
 Mathias-Brüggen-Str.
 Mathias-Brüggen-Straße
 Mauritiuskirche
+Mauritiusschule
 Max-Löbner-Str./Friesdorf
 Mechternstr.
 Mechternstraße
 Meerfeldstr.
 Meerfeldstraße
 Melaten
+Melli-Beese-Str.
 Mennweg
 Merheim
 Merheimer Platz
@@ -750,10 +867,15 @@ Merianstr.
 Merianstraße
 Merkenich
 Merkenich Mitte
+Merkenicher Str.
 Merkenicher Straße
+Merten
 Meschenich Kirche
+Messe Omnibushof
 Methweg
+Metternicherstr.
 Michaelshoven
+Militärringstr.
 Mohlenweg
 Mohnweg
 Moldaustraße
@@ -763,12 +885,18 @@ Moltkestr.
 Moltkestraße
 Mommsenstr.
 Mommsenstraße
+Mondorf Ahrstr.
+Mondorf Beckergasse
+Mondorf Provinzialstr.
+Mondorf Rosenthalstr.
+Mondorf Sportplatz
 Montanusstr.
 Montanusstraße
 Morsestr.
 Morsestraße
 Moses-Hess-Str.
 Moses-Hess-Straße
+Mozartstr.
 Mozartstraße
 Museum Koenig
 Mutzbach
@@ -784,7 +912,9 @@ Mülheim Berliner Str.
 Mülheim Wiener Platz
 Mülheimer Friedhof
 Mülheimer Ring
+Müllekoven
 Müngersdorf S-Bahn Technologiepark
+Müngersdorf S-Bahn/Technologiepark
 Nachtigallenstr.
 Nachtigallenstraße
 Nattermannallee
@@ -794,9 +924,11 @@ Nesselrodestr.
 Nesselrodestraße
 Neuenweg
 Neuer Mülheimer Friedhof
+Neufelder Str.
 Neufelder Str. (Krankenhaus Holweide)
 Neufelder Straße
 Neufelder Straße/Krankenhaus Holweide
+Neufeldweg
 Neumarkt
 Neumarkt/U-Bahn
 Neurather Ring
@@ -808,9 +940,15 @@ Neven DuMont Haus
 Nibelungenplatz
 Nibelungenstr.
 Nibelungenstraße
+Niederkassel Evgl. Kirche
+Niederkassel Nord
+Niederkassel Rathausplatz
+Niederkassel Spicher Str.
+Niederkassel Waldstr.
 Niederkasseler Straße
 Niederkasseler Straße/Kreisel
 Niehl
+Niehl Betriebshof Nord
 Niehl Sebastianstr.
 Niehl Sebastianstraße
 Niehler Damm
@@ -828,12 +966,16 @@ Nußbaumerstraße
 Nüssenberger Str.
 Nüssenberger Straße
 Oberer Komarweg
+Oberlar Landgrafenstr
+Oberlar Lindlaustr.
 Oberzündorf
 Odenthaler Str.
 Odenthaler Straße
 Okerstraße
 Olefsgasse
 Ollenhauerring
+Ollenhauerstraße
+Olof-Palme-Allee
 Olpener Str.
 Olpener Straße
 Oper
@@ -841,14 +983,17 @@ Oranienstr.
 Oranienstraße
 Oranjehofstr.
 Oranjehofstraße
+Oskar-Jäger-Str.
 Oskar-Jäger-Str./Gürtel
 Oskar-Jäger-Straße
 Oskar-Jäger-Straße / Gürtel
+Oskar-Schindler-Str.
 Ossendorf
 Osterather Str.
 Osterather Straße
 Ostfriedhof
 Ostheim
+Ostlandstr.
 Ostlandstraße
 Ostmerheimer Str.
 Ostmerheimer Straße
@@ -862,6 +1007,8 @@ Palmenhof
 Parkhaus Hauptbahnhof
 Pasteurstr.
 Pasteurstraße
+Paul-Nießen-Str.
+Paul-Reifenberg-Str.
 Paul-Reifenberg-Straße
 Penningsfelder Weg
 Pesch Schulstr.
@@ -873,6 +1020,7 @@ Pierstraße
 Piusstr.
 Piusstraße
 Plittersdorfer Str.
+Plittersdorfer Straße
 Pohligstr.
 Pohligstraße
 Poll Hauptstr.
@@ -885,6 +1033,7 @@ Poller Kirchweg
 Porz (Rhein)
 Porz Markt
 Porz Steinstr.
+Porz-Langel Kirche
 Porz-Langel Mühle
 Porz-Langel Nord
 Porz-Langel Süd
@@ -897,22 +1046,38 @@ Poststraße
 Propsthof Nord
 Prälat-van-Acken-Str.
 Prälat-von-Acken-Straße
+Pulheimer Str.
 Pulheimer Straße
 Raiffeisenstr.
 Raiffeisenstraße
+Ramersdorf
 Ramrather Weg
+Ranzel Gewerbegebiet
+Ranzel Kirche
+Ranzel Schule
+Ranzel Schulstr.
+Ranzel Sonnenbergerweg
+Ranzel Weilerhof
 Rath-Heumar
 Rathaus
+Rathenaustr.
 Refrath
 Reichenspergerplatz
+Reiherstr.
 Reiherstraße
 Reischplatz
 Rektor-Klein-Str.
 Rektor-Klein-Straße
 Remscheider Str.
 Remscheider Straße
+Rheidt Bahnhofstr.
+Rheidt Markt
+Rheidt Nord
+Rheidt Süd
+Rheidt Unterführung
 Rhein Energie Stadion
 Rheinauhafen
+Rheinbergstr.
 Rheinbergstraße
 Rheinenergie-Stadion
 Rheinkassel
@@ -920,14 +1085,19 @@ Rheinlandstr.
 Rheinlandstraße
 Rheinsteinstr.
 Rheinsteinstraße
+Rhöndorfer Str.
 Rhöndorfer Straße
+Richard-Wagner-Str.
 Riehl Betriebshof Nord
 Riehler Gürtel
+Ritterstr.
 Ritterstraße
 Robert-Bosch-Str.
 Robert-Bosch-Straße
+Robert-Kirchhoff-Straße
 Robert-Perthel-Str.
 Robert-Perthel-Straße
+Robert-Schuman-Platz
 Rodenkirchen
 Rodenkirchen Bahnhof
 Rodenkirchen Bf
@@ -937,7 +1107,10 @@ Rodenkirchen Rathaus
 Rodenkirchener Str.
 Roggenweg
 Roisdorf Bf
+Roisdorf West
+Roisdorfer Str.
 Roisdorfer Straße
+Rolandstr.
 Rolshover Str.
 Rolshover Straße
 Rondorf
@@ -947,6 +1120,7 @@ Rosenhügel
 Rosenstr.
 Rosenstraße
 Rosmarinweg
+Rotdornweg
 Roteichenweg
 Rothgerberbach/Poststraße
 Rudolf-Diesel-Str.
@@ -959,6 +1133,7 @@ Saarbrücker Str.
 Saarbrücker Straße
 Saarstr.
 Saarstraße
+Sachsenbergstr.
 Salmstrasse
 Sankt-Joseph-Kirche
 Sankt-Tönnis-Platz
@@ -966,6 +1141,8 @@ Sauerlandstr.
 Schadowstr.
 Schadowstraße
 Schaffrathsgasse
+Schanzenstr. Nord
+Schanzenstr./Schauspielhaus
 Schanzenstraße
 Scheibenstr.
 Scheibenstraße
@@ -980,9 +1157,11 @@ Schlagbaumsweg
 Schlebusch
 Schlettstadter Str.
 Schlettstadter Straße
+Schloss Röttgen
 Schloß Röttgen
 Schmiedegasse
 Schmiedegasse 1
+Schneider-Clauss-Str.
 Schneider-Clauss-Straße
 Schokoladenmuseum
 Schulstraße
@@ -990,10 +1169,15 @@ Schulzentrum Wahn
 Schumacherring
 Schwabenstr.
 Schwabenstraße
+Schwadorf
+Schwarzrheindorf Kirche
+Schwarzrheindorf Schule
+Schwarzrheindorf Siegaue
 Schwindstr.
 Schönhauser Str.
 Schönhauser Straße
 Schüttewerk
+Schützenhofstr.
 Sebastianstr.
 Sebastianstraße Gl.2
 Sechtem Bf
@@ -1015,10 +1199,30 @@ Severinusstr.
 Severinusstraße
 Siebengebirgsallee
 Siedlung Mielenforst
+Siegburg Bf
+Siegburg Brückberg
+Siegburg Ernststr.
+Siegburg Friedrich-Ebert-Str.
+Siegburg Heinrichstr.
+Siegburg Kaiserstr.
+Siegburg Kaserne
+Siegburg Markt
+Siegburg Stadthalle
+Siegburg Waldstr.
+Siegburg Zum Hohen Ufer
 Siegburger Str.
 Siegburger Straße
 Siegfriedstr.
 Siegfriedstraße
+Sieglar Feuerwache
+Sieglar Flachtenstr./Krankenhaus
+Sieglar Im Kirschtal
+Sieglar Leostr.
+Sieglar Rathausstr.
+Sieglar Rathausstr./Kreisel
+Sieglar RSVG
+Sieglar Schulzentrum
+Siegstr.
 Siegstr. (Stadtbahn)
 Siegstraße
 Siemensstr.
@@ -1030,16 +1234,21 @@ Sinnersdorf Kirche
 Sinnersdorfer Mühle
 Slabystr.
 Slabystraße
+Sparkasse
 Sparkasse Am Butzweilerhof
 Spich Bf
 Spicher Straße
 Spitzangerweg
+Sportplatzstr.
 Sportplatzstraße
 Sprengelstr.
 Sprenglstraße
 St. Vincenz Haus
 St. Vinzenz Hospital
+St. Vinzenz-Hospital
+St.-Tönnis-Str.
 St.-Tönnis-Straße
+St.Joseph-Kirche
 Staffelbergstraße
 Stallagsweg
 Stammheim S-Bahn
@@ -1053,6 +1262,8 @@ Steinstraße
 Steinstraße S-Bahn
 Steinweg
 Sterrenhofweg
+Stiftsstr.
+Stolberger Str.
 Stolberger Str./Eupener Str.
 Stolberger Str./Maarweg
 Stolberger Straße
@@ -1066,6 +1277,7 @@ Stresemannstr.
 Stresemannstraße
 Strundener Straße
 Stüttgenhof
+Stüttgerhofweg
 Subbelrather Str./Gürtel
 Subbelrather Straße
 Subbelrather Straße / Gürtel
@@ -1075,14 +1287,17 @@ Swinestraße
 Südallee
 Südbahnhof
 Sülz Hermeskeiler Platz
+Sülzburgstr.
 Sülzburgstr./Berrenrather Str.
 Sülzburgstraße
 Sülzburgstraße/Berrenrather Straße
 Sülzgürtel
 Sürth
 Sürth Bf
+T\u00dcV-Akademie
 Tacitusstr.
 Tacitusstraße
+Takustr.
 Takustraße
 Talweg
 Tannenbusch Mitte
@@ -1091,6 +1306,7 @@ Taubenholzweg
 Technologiepark
 TechnologiePark Köln
 Technologiepark Köln
+TechnologiePark Mitte
 Theodor-Heuss-Str.
 Theodor-Heuss-Straße
 Theresienstr.
@@ -1103,6 +1319,15 @@ Totilastraße
 Trifelsstr.
 Trifelsstraße
 Trimbornstr.
+Troisdorf Aggerbrücke
+Troisdorf Altenforst
+Troisdorf Bergeracker
+Troisdorf BF
+Troisdorf Elsenplatz
+Troisdorf Kuttgasse
+Troisdorf Rathaus
+Troisdorf Ursulaplatz
+Troisdorf Wilhelmstr.
 Troisdorfer Str.
 Troisdorfer Straße
 TÜV-Akademie
@@ -1111,16 +1336,19 @@ Uedorf
 Uferstr.
 Uferstraße
 Ulrepforte
+Universitaet/Markt
 Universität
 Universität Bstg. Gl.
 Universität/Markt
 Universitätsstr.
 Universitätsstraße
 Unnauer Weg
+Urbach Breslauer Str.
 Urbach Friedhof
 Urbach Kaiserstr.
 Urbach Kaiserstraße
 Urbach Waldstr.
+Urfeld
 Venloer Str./Gürtel
 Venloer Straße / Gürtel
 Venloer Straße/Gürtel
@@ -1131,9 +1359,11 @@ Vitalisstr. Süd
 Vitalisstraße Nord
 Vitalisstraße Süd
 Vogelsanger Markt
+Vogelsanger Str.
 Vogelsanger Str./Maarweg
 Vogelsanger Straße
 Vogelsanger Straße/Maarweg
+Vogelsanger Weg
 Vogelsbergstraße
 Volkhovener Weg
 Volksgarten
@@ -1153,9 +1383,12 @@ Wahn Friedhof
 Wahn Kirche
 Wahn S-Bahn
 Waidmarkt
+Walberberg
 Waldbad
 Waldecker Str.
 Waldecker Straße
+Waldorf
+Waldstr.
 Waldstr./Akazienweg
 Walter-Dodde-Weg
 Walter-Pauli-Ring
@@ -1163,14 +1396,18 @@ Wasserwerk
 Wattstr.
 WDR
 Weichselring
+Weiden Einkaufszentrum
+Weiden Goethestr.
 Weiden Schulstr.
 Weiden Schulstraße
 Weiden Sportplatz
 Weiden West
+Weiden West S-Bahn
 Weiden Zentrum
 Weiden Zentrum (EKC)
 Weiden-West
 Weiden/Zentrum
+Weidenpescher Str.
 Weidenpescher Straße
 Weilburger Str.
 Weilburger Straße
@@ -1181,6 +1418,7 @@ Weinsbergstr./Gürtel
 Weinsbergstraße
 Weinsbergstraße / Gürtel
 Weiß Friedhof
+Weißer Hauptstr.
 Weißhausstr.
 Weißhausstraße
 Welserstr.
@@ -1188,6 +1426,7 @@ Welserstraße
 Wendelinstr.
 Wendelinstraße
 Weserpromenade
+Wesseling
 Wesseling Nord
 Wesseling Süd
 Wesselinger Str.
@@ -1206,6 +1445,7 @@ Wichheimer Str.
 Wichheimer Strasse
 Wichheimer Straße
 Widdersdorf
+Widdersdorfer Str.
 Widdersdorfer Straße
 Widdig
 Wiedenfelder Weg
@@ -1215,14 +1455,19 @@ Wiehler Str.
 Wiehler Straße
 Wiener Platz
 Wiener Platz/U-Bahn
+Wiener Weg
 Wiesenweg
 Wildpark
 Wilhelm-Klein-Straße 1
+Wilhelm-Leuschner-Str.
 Wilhelm-Sollmann-Str.
 Wilhelm-Sollmann-Straße
+Wilhelmstr.
 Wilhelmstraße
 Willi-Lauf-Allee
+Windmühlenstr.
 Windmühlenstraße
+Wingertsheide
 Wiso-Fakultät
 WISO-Fakultät
 Wolffsohnstr.
@@ -1234,6 +1479,7 @@ Worringen Süd
 Worringer Str.
 Worringer Straße
 Wurzerstr.
+Wurzerstraße
 Wüllnerstr.
 Wüllnerstraße
 Würzburger Str.
@@ -1254,7 +1500,9 @@ Zoo/Flora
 Zugweg
 Zum Hedelsberg
 Zum neuen Kreuz
+Zum Neuen Kreuz
 Zur Abtei
+Zypressenstr.
 Zypressenstraße
 Zülpicher Platz
 Zülpicher Str./Gürtel
@@ -1265,11 +1513,13 @@ Zündorf Altersheim
 Zündorf Gl. 1
 Zündorf Gl. 2
 Zündorf Kirche
+Zündorf Marktstr.
 Zündorf Marktstraße
 Zündorf Mitte
+Zündorf Olefsgasse
+Zündorf Ranzeler Str.
 Zündorf Ranzeler Straße
 Zündorfer Weg
-Zündorfer Weg""
 Äußere Kanalstr.
 Äußere Kanalstraße
 Üdesheimer Weg
